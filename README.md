@@ -1,3 +1,3 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/ewosborn/ewosborn/master/wave.gif" width="30px">
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Edudzi Worlasi Osborn and I am a Full Stack Web Developer. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
 <a href="https://app.daily.dev/Anointed_Bethel"><img src="https://api.daily.dev/devcards/1a6867d523484abdb4f5190803543076.png?r=hsn" width="400" alt="EDUDZI WORLASI OSBORN's Dev Card"/></a>
