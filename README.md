@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://github.com/ewosborn/ewosborn/blob/main/wave.gif" width="30px">
-I am a Full Stack Web Developer. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
+I am an aspiring Software Engineer. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
 
 <a href="https://app.daily.dev/Anointed_Bethel"><img src="https://api.daily.dev/devcards/1a6867d523484abdb4f5190803543076.png?r=hsn" width="400" alt="EDUDZI WORLASI OSBORN's Dev Card"/></a>
 
